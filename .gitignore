@@ -17,3 +17,4 @@ dist/
 # Misc
 *.swp
 *.sdf.bak
+.DS_Store
