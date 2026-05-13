@@ -1,5 +1,11 @@
 # UR5 Pick and Place with Artificial Potential Fields
 
+![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-22314E?style=flat&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-enabled-2496ED?style=flat&logo=docker&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Classic-FF6600?style=flat)
+
 A ROS2-based simulation of a UR5 robotic arm performing pick-and-place operations using Artificial Potential Field (APF) local planning, with MoveIt2 for motion planning and Gazebo for simulation.
 
 ## Overview
