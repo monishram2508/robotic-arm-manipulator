@@ -1,0 +1,19 @@
+# ROS2 build
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+# Python
+*.egg-info/
+dist/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.sdf.bak
